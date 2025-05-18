@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Di+ukUo+pXA=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\e-commerce\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\betul\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.0.0\\swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
